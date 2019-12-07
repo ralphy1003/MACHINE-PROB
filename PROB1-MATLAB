@@ -1,3 +1,4 @@
+%PROBLEM 1-MATLAB
 a = 0:1:8;
 b = (a.^2)-7;
 stem(b)
