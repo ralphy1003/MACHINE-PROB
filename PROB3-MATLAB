@@ -1,4 +1,4 @@
-%PROBLEM3-MATLAB
+%PROBLEM 3-MATLAB
 function X = PROB3(A)
 
 for n = 1:length(A)-1
