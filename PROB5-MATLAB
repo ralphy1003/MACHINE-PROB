@@ -1,4 +1,4 @@
-%PTOBLEM 5-MATLAB
+%PROBLEM 5-MATLAB
 n=[0:199];
 FCT = 'Please enter a function for the user input x(n):';
 x = input(FCT);
